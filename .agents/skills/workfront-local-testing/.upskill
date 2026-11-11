@@ -1,0 +1,13 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "workfront-local-testing",
+  "path": "plugins/app-builder/skills/appbuilder-workfront/workfront-local-testing",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:05.000Z",
+  "files": [
+    "SKILL.md",
+    "evals/evals.json"
+  ]
+}

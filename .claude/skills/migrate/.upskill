@@ -1,0 +1,23 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "migrate",
+  "path": "plugins/stardust/skills/migrate",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:42:56.000Z",
+  "files": [
+    "SKILL.md",
+    "fixtures/file-protocol-audit.mjs",
+    "fixtures/pagemap-audit.mjs",
+    "reference/asset-bundling.md",
+    "reference/content-preservation.md",
+    "reference/fidelity-tiers.md",
+    "reference/media-reconciliation.md",
+    "reference/metadata-and-jsonld.md",
+    "reference/migration-procedure.md",
+    "reference/template-and-module-rendering.md",
+    "scripts/migrate.mjs",
+    "scripts/test/migrate.test.mjs"
+  ]
+}

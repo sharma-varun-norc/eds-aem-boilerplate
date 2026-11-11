@@ -1,0 +1,15 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "workfront-actions",
+  "path": "plugins/app-builder/skills/appbuilder-workfront/workfront-actions",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:06.000Z",
+  "files": [
+    "SKILL.md",
+    "assets/action-boilerplate.js",
+    "evals/evals.json",
+    "references/integrations.md"
+  ]
+}

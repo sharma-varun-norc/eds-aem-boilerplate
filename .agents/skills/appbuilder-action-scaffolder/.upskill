@@ -1,0 +1,33 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-action-scaffolder",
+  "path": "plugins/app-builder/skills/appbuilder-action-scaffolder",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:07.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "agents/openai.yaml",
+    "assets/action-boilerplate.js",
+    "assets/action-scaffold-template.js",
+    "assets/action-sequence-template.js",
+    "assets/asset-compute-worker-template.js",
+    "assets/database-action-template.js",
+    "assets/event-provider-template.js",
+    "assets/event-webhook-template.js",
+    "assets/journaling-consumer-template.js",
+    "assets/large-payload-template.js",
+    "evals/evals.json",
+    "references/action-patterns.md",
+    "references/aem-apis.md",
+    "references/checklist.md",
+    "references/debugging.md",
+    "references/implementation-template.md",
+    "references/playbook.md",
+    "references/prompt-pack.md",
+    "references/runtime-reference.md",
+    "scripts/accelerator.py"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "configure",
+  "path": "plugins/creative-cloud/adobe-for-creativity/skills/configure",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:42:59.000Z",
+  "files": [
+    "SKILL.md"
+  ]
+}

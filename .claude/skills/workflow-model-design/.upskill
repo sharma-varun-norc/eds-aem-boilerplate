@@ -1,0 +1,21 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "workflow-model-design",
+  "path": "plugins/aem/6.5-lts/skills/aem-workflow/workflow-model-design",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:38.000Z",
+  "files": [
+    "SKILL.md",
+    "references/workflow-foundation/65-lts-guardrails.md",
+    "references/workflow-foundation/README.md",
+    "references/workflow-foundation/api-reference.md",
+    "references/workflow-foundation/architecture-overview.md",
+    "references/workflow-foundation/jcr-paths-reference.md",
+    "references/workflow-foundation/quick-start-guide.md",
+    "references/workflow-model-design/model-design-patterns.md",
+    "references/workflow-model-design/model-xml-reference.md",
+    "references/workflow-model-design/step-types-catalog.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "remove-deprecated-api",
+  "path": "plugins/aem/cloud-service/skills/code-assessment/remove-deprecated-api",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:25.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "recipe.md",
+    "scripts/detect.sh"
+  ]
+}

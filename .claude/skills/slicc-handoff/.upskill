@@ -1,0 +1,16 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "slicc-handoff",
+  "path": "plugins/aem/edge-delivery-services/skills/slicc-handoff",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:10.000Z",
+  "files": [
+    ".releaserc.json",
+    "CHANGELOG.md",
+    "SKILL.md",
+    "package.json",
+    "scripts/slicc-handoff"
+  ]
+}

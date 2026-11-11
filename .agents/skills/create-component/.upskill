@@ -1,0 +1,29 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "create-component",
+  "path": "plugins/aem/cloud-service/skills/create-component",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:24.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "assets/field-type-mappings.md",
+    "references/aem-conventions.md",
+    "references/clientlib-patterns.md",
+    "references/core-components.md",
+    "references/dialog-patterns.md",
+    "references/examples.md",
+    "references/extending-core-components-example.md",
+    "references/extending-core-components.md",
+    "references/figma-design-rules.md",
+    "references/htl-patterns.md",
+    "references/java-standards.md",
+    "references/model-patterns.md",
+    "references/no-hallucination-rules.md",
+    "references/sling-servlet-standards.md",
+    "references/test-patterns.md",
+    "references/troubleshooting.md"
+  ]
+}

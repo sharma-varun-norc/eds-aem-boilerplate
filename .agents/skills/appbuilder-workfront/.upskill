@@ -1,0 +1,24 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-workfront",
+  "path": "plugins/app-builder/skills/appbuilder-workfront",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:06.000Z",
+  "files": [
+    "SKILL.md",
+    "evals/evals.json",
+    "references/commands.md",
+    "references/troubleshooting.md",
+    "workfront-actions/SKILL.md",
+    "workfront-actions/assets/action-boilerplate.js",
+    "workfront-actions/evals/evals.json",
+    "workfront-actions/references/integrations.md",
+    "workfront-local-testing/SKILL.md",
+    "workfront-local-testing/evals/evals.json",
+    "workfront-ui-extension/SKILL.md",
+    "workfront-ui-extension/assets/ExtensionRegistration.example.js",
+    "workfront-ui-extension/evals/evals.json"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "content-distribution",
+  "path": "plugins/aem/cloud-service/skills/content-distribution",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:24.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "replication/SKILL.md",
+    "replication/references/patterns.md",
+    "sling-distribution/SKILL.md"
+  ]
+}

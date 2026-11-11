@@ -1,0 +1,12 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "adobe-edit-quick-cut",
+  "path": "plugins/creative-cloud/adobe-for-creativity/skills/adobe-edit-quick-cut",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:01.000Z",
+  "files": [
+    "SKILL.md"
+  ]
+}

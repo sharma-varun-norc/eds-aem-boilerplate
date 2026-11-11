@@ -1,0 +1,28 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-testing",
+  "path": "plugins/app-builder/skills/appbuilder-testing",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:06.000Z",
+  "files": [
+    "SKILL.md",
+    "assets/component-test-template.js",
+    "assets/integration-test-template.js",
+    "assets/mock-database-sdk.js",
+    "assets/mock-events-sdk.js",
+    "assets/mock-files-sdk.js",
+    "assets/mock-state-sdk.js",
+    "assets/shell-mock-helper.js",
+    "assets/uix-guest-mock-helper.js",
+    "assets/unit-test-template.js",
+    "evals/evals.json",
+    "evals/scaffolds/aem-extension-component.jsx",
+    "references/checklist.md",
+    "references/component-testing-patterns.md",
+    "references/debugging.md",
+    "references/mock-catalog.md",
+    "references/testing-patterns.md"
+  ]
+}

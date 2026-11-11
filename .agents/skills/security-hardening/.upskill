@@ -1,0 +1,29 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "security-hardening",
+  "path": "plugins/aem/6.5-lts/skills/dispatcher/security-hardening",
+  "sha": "0044687c99d0ebc449731567eea7775ca9c9cb6e",
+  "version": 1,
+  "installed": "2026-11-11T18:43:32.000Z",
+  "files": [
+    "SKILL.md",
+    "references/dispatcher-foundation/README.md",
+    "references/dispatcher-foundation/ams-6-5-guardrails.md",
+    "references/dispatcher-foundation/change-risk-and-rollback-template.md",
+    "references/dispatcher-foundation/core-7-tools-reference.md",
+    "references/dispatcher-foundation/mode-specific-verification-matrix.md",
+    "references/dispatcher-foundation/playbook-command-linkage.md",
+    "references/dispatcher-foundation/public-doc-citation-rules.md",
+    "references/dispatcher-foundation/public-docs-index.md",
+    "references/dispatcher-foundation/quick-start-execution-path.md",
+    "references/dispatcher-foundation/repo-layout-workflows.md",
+    "references/dispatcher-foundation/test-case-catalog.md",
+    "references/security-hardening/owasp-coverage-matrix.md",
+    "references/security-hardening/security-audit-report-template.md",
+    "references/security-hardening/security-baseline-checklist.md",
+    "references/security-hardening/security-headers-checklist.md",
+    "references/security-hardening/security-scenario-playbooks.md",
+    "references/security-hardening/sensitive-paths-catalog.md"
+  ]
+}
