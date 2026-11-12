@@ -32,3 +32,20 @@ npm run lint
 1. Install the [AEM CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
 1. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000`)
 1. Open the `eds-aem-boilerplate` directory in your favorite IDE and start coding :)
+
+## Storybook
+
+Storybook is configured with the HTML/Vite renderer and the Cards block as a working
+example. It renders the real block decorator using representative authored markup.
+
+1. Install project dependencies, including Storybook: `npm install`
+2. Start the interactive Storybook: `npm run storybook`
+3. Open `http://localhost:6006` and select **Blocks / Cards**.
+4. Choose **Default grid**, **Editorial cards with actions**, **Text-only cards**, or
+   **Single feature card**. Adjust the card count and content in the **Controls** panel.
+5. In **Editorial cards with actions**, click a card link and inspect the **Actions**
+   panel to see the logged event.
+6. To create a static Storybook build, run `npm run build-storybook`; output is written
+   to `storybook-static/`.
+
+Add more stories beside a block as `blocks/<block-name>/<block-name>.stories.js`.

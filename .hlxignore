@@ -4,5 +4,8 @@ karma.config.js
 LICENSE
 package.json
 package-lock.json
+
+*.stories.js
+
 test/*
 sync-block-collection.sh
